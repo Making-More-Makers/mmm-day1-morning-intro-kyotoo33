@@ -1,11 +1,11 @@
 # Spaghetti Marshmallow Challenge Reflection
 # Spaghetti Marshmallow Challenge 反思
 
-**Name | 姓名**: _________________
+**Name | 姓名**: Avidikhuu
 
-**Team Name | 队名**: _________________
+**Team Name | 队名**: PulseLink
 
-**Date | 日期**: _________________
+**Date | 日期**: 11/21/2025
 
 ---
 
@@ -13,11 +13,11 @@
 
 ### Our Structure | 我们的结构
 
-**Final Height | 最终高度**: _________ cm
+**Final Height | 最终高度**: 45 cm
 
-**Did it stand for 5 seconds? | 能站立5秒吗？**: ☐ Yes ☐ No
+**Did it stand for 5 seconds? | 能站立5秒吗？**: Yes
 
-**Rank in class | 班级排名**: ___ out of ___ teams
+**Rank in class | 班级排名**: 4 out of 4 teams
 
 ---
 
@@ -25,25 +25,25 @@
 
 ### Team Members | 团队成员
 
-1. _________________
-2. _________________
-3. _________________
+1. Avidikhuu Altangerel
+2. Yeabsira Yirgu
+3. Nemuulen
 4. _________________
 5. _________________
 
 ### Our Team Dynamics | 我们的团队动态
 
 **Who took the leadership role? | 谁担任了领导角色？**
-
+Yeabsira Yirgu
 
 
 **How did we divide the work? | 我们如何分工？**
-
+All of us worked together
 
 
 
 **Did everyone contribute equally? | 每个人的贡献是否平等？**
-
+Yes
 
 
 
@@ -54,17 +54,17 @@
 ### Successful Strategies | 成功的策略
 
 **What was our initial strategy? | 我们最初的策略是什么？**
-
+Sturdy Structure
 
 
 
 **What worked better than expected? | 什么比预期的效果更好？**
-
+Stress test was really good
 
 
 
 **What would you do the same way if you did it again? | 如果再做一次，你会用同样的方法做什么？**
-
+Sturdy structure
 
 
 
@@ -75,17 +75,17 @@
 ### Challenges We Faced | 我们面临的挑战
 
 **What didn't work as planned? | 什么没有按计划进行？**
-
+We forgot we have to be tall
 
 
 
 **Why do you think it failed? | 你认为为什么失败了？**
 
-
+Because it's short
 
 
 **What was the biggest challenge? | 最大的挑战是什么？**
-
+To adding height while keeping its sturdiness
 
 
 
@@ -97,15 +97,15 @@
 
 **How many different designs did we try? | 我们尝试了多少种不同的设计？**
 
-☐ 1  ☐ 2-3  ☐ 4-5  ☐ 6+
+1
 
 **Describe one major change we made during the challenge | 描述我们在挑战中做出的一个重大改变**
-
+Adding more supports
 
 
 
 **Did testing early help us? | 早期测试对我们有帮助吗？**
-
+No
 
 
 
@@ -116,22 +116,22 @@
 ### What We Learned About Collaboration | 我们从协作中学到了什么
 
 **What worked well in our team communication? | 我们团队沟通中什么做得好？**
-
+English
 
 
 
 **What could we have done better as a team? | 作为一个团队，我们可以做得更好的是什么？**
-
+We did our best
 
 
 
 **How did we handle disagreements? | 我们如何处理分歧？**
 
-
+No disagreements
 
 
 **Did we listen to everyone's ideas? | 我们有听取每个人的想法吗？**
-
+Yes
 
 
 
@@ -143,16 +143,16 @@
 
 **How much time did we spend planning vs. building? | 我们花了多少时间规划 vs. 建造？**
 
-Planning | 规划: _____ minutes  
-Building | 建造: _____ minutes
+Planning | 规划: 0 minutes  
+Building | 建造: 20 minutes
 
 **Did we have time left over or run out of time? | 我们有剩余时间还是时间不够？**
-
+Ran out of time
 
 
 **Was our time management effective? | 我们的时间管理有效吗？**
 
-
+Yes
 
 
 ---
@@ -163,18 +163,16 @@ Building | 建造: _____ minutes
 
 **Did we test our structure before the final measurement? | 我们在最终测量前测试我们的结构了吗？**
 
-☐ Yes, multiple times  
-☐ Yes, once or twice  
-☐ No, we ran out of time  
-☐ No, we didn't think to test it
+ Yes, multiple times  
+
 
 **What would we change if we had 5 more minutes? | 如果我们还有 5 分钟，我们会改变什么？**
 
-
+Adding more supports to add more height
 
 
 **What engineering principles did we discover? | 我们发现了什么工程原理？**
-
+Triangular base
 *For example: triangles are stable, base needs to be wide, weight distribution, etc.*  
 *例如：三角形是稳定的、底座需要宽、重量分布等*
 
@@ -189,19 +187,19 @@ Building | 建造: _____ minutes
 
 **The most important thing I learned from this challenge | 我从这个挑战中学到的最重要的事情**
 
-
+Don't make tower with sphagettis
 
 
 **One thing I would definitely do differently next time | 下次我肯定会做得不同的一件事**
 
-
+Eat marshmellow
 
 
 **How does this challenge relate to real maker projects? | 这个挑战如何与真实的创客项目相关？**
 
 *Think about: prototyping, iteration, teamwork, time constraints, resource limits*  
 *思考：原型制作、迭代、团队合作、时间限制、资源限制*
-
+Prototyping, Iteration, and mastery
 
 
 
@@ -214,32 +212,32 @@ Building | 建造: _____ minutes
 **Curiosity | 好奇**: How did we explore different possibilities?  
 我们如何探索不同的可能性？
 
-
+Brainstorm
 
 **Hands-on | 动手**: How did building teach us more than just thinking?  
 建造如何比仅仅思考教会我们更多？
 
-
+Experience
 
 **Fail Fast | 快速试错**: How many times did we fail and try again?  
 我们失败了多少次并再次尝试？
 
-
+1
 
 **Iteration | 迭代**: How did we improve our design step by step?  
 我们如何一步步改进我们的设计？
 
-
+Every step
 
 **Interdisciplinary | 跨学科**: What different skills did our team bring?  
 我们的团队带来了哪些不同的技能？
 
-
+Brain, brawn, creativity
 
 **Open Sharing | 开源分享**: Did we look at other teams' approaches?  
 我们有观察其他团队的方法吗？
 
-
+never
 
 ---
 
